@@ -6,8 +6,8 @@ I am a developer and engineering enthusiast focused on pushing the boundaries of
 
 ## 🚀 Future Ambitions
 I am deeply fascinated by ultra-high-performance engineering and am actively expanding my skills toward:
-* 🏎️ **Formula 1 Aerodynamics** & Advanced Engine Design
-* 🚀 ** Rocket Design & High-Performance Aerospace Systems** & Aerospace Engineering
+* 🏎️ **Formula 1 Aerodynamics**  Advanced Engine and Aerodynamic Design
+* 🚀 **Rocket Design & High-Performance Aerospace Systems**  Aerospace Engineering
 
 ---
 
