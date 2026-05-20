@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Zeyad-Ali-0/Zeyad-Ali-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer and engineering enthusiast focused on pushing the boundaries of physical and digital systems. My work bridges the gap between hardware, software integration, and manufacturing technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Future Ambitions
+I am deeply fascinated by ultra-high-performance engineering and am actively expanding my skills toward:
+* 🏎️ **Formula 1 Aerodynamics** & Advanced Engine Design
+* 🚀 **Rocket Propulsion Systems** & Aerospace Engineering
+
+---
+
+## 🧰 Tech Stack & Skills
+* **Hardware & Electronics:** Arduino, Microcontrollers, Circuit Design, Power Supplies
+* **Engineering & CAD:** CNC Machining, Mechanical Fabrication, 3D CAD Modeling
+* **Software:** Embedded C / C++, Project Planning
+
+---
+
+📬 **How to reach me:** [Link your Email or LinkedIn here!]
+
+---
+
+📬 **How to reach me:** [Link your Email or LinkedIn here!]
