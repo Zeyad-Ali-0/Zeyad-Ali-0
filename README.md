@@ -18,8 +18,6 @@ I am deeply fascinated by ultra-high-performance engineering and am actively exp
 
 ---
 
-📬 **How to reach me:** [Link your Email or LinkedIn here!]
+📬 **How to reach me:** [https://www.linkedin.com/in/zeyad-ali-539835281/]
 
----
 
-📬 **How to reach me:** [Link your Email or LinkedIn here!]
