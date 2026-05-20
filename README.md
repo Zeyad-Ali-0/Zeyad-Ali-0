@@ -5,15 +5,15 @@ I am a developer and engineering enthusiast focused on pushing the boundaries of
 ---
 
 ## 🚀 Future Ambitions
-I am deeply fascinated by ultra-high-performance engineering and am actively expanding my skills toward:
+I am deeply fascinated by high-performance engineering and am actively expanding my skills toward:
 * 🏎️ **Formula 1 Aerodynamics**  (Advanced Engine and Aerodynamic Design)
 * 🚀 **Rocket Design & High-Performance Aerospace Systems**  (Aerospace Engineering)
 
 ---
 
 ## 🧰 Tech Stack & Skills
-* **Hardware & Electronics:** Arduino, Microcontrollers, Circuit Design, Power Supplies
-* **Engineering & CAD:** CNC Machining, Mechanical Fabrication, 3D CAD Modeling
+* **Hardware & Electronics:** Arduino, ESP-32, Microcontrollers, Circuit Design, Power Supplies
+* **Engineering & CAD:** CNC Machining (lathe machine / Inventor CAM, Mechanical Fabrication, 3D CAD Modeling
 * **Software:** Embedded C / C++, Project Planning
 
 ---
