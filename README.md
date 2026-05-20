@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [ZEYAD] 👋
 
 I am a developer and engineering enthusiast focused on pushing the boundaries of physical and digital systems. My work bridges the gap between hardware, software integration, and manufacturing technology.
 
